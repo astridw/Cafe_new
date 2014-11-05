@@ -39,3 +39,7 @@ gem 'spring',        group: :development
 # gem 'debugger', group: [:development, :test]
 
 gem 'devise'
+
+gem 'simple_form'
+
+gem 'bootstrap-sass', '~> 3.3.0'
