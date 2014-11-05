@@ -43,3 +43,5 @@ gem 'devise'
 gem 'simple_form'
 
 gem 'bootstrap-sass', '~> 3.3.0'
+
+gem "rails_12factor"
